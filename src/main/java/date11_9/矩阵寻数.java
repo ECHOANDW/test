@@ -5,6 +5,7 @@ import cn.hutool.json.JSONUtil;
 public class 矩阵寻数 {
     public static void main(String[] args) {
         System.out.println();
+        System.out.println();
         int a[][] = new int[4][4];
 
         for (int i = 0; i < a.length; i++) {
